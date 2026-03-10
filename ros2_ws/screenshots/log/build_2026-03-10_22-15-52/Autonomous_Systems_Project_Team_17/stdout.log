@@ -1,0 +1,32 @@
+running develop
+Removing /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/python3.12/site-packages/Autonomous-Systems-Project-Team-17.egg-link (link to .)
+running egg_info
+writing ../../build/Autonomous_Systems_Project_Team_17/Autonomous_Systems_Project_Team_17.egg-info/PKG-INFO
+writing dependency_links to ../../build/Autonomous_Systems_Project_Team_17/Autonomous_Systems_Project_Team_17.egg-info/dependency_links.txt
+writing entry points to ../../build/Autonomous_Systems_Project_Team_17/Autonomous_Systems_Project_Team_17.egg-info/entry_points.txt
+writing requirements to ../../build/Autonomous_Systems_Project_Team_17/Autonomous_Systems_Project_Team_17.egg-info/requires.txt
+writing top-level names to ../../build/Autonomous_Systems_Project_Team_17/Autonomous_Systems_Project_Team_17.egg-info/top_level.txt
+reading manifest file '../../build/Autonomous_Systems_Project_Team_17/Autonomous_Systems_Project_Team_17.egg-info/SOURCES.txt'
+writing manifest file '../../build/Autonomous_Systems_Project_Team_17/Autonomous_Systems_Project_Team_17.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/build
+creating /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/build/lib
+creating /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/build/lib/Autonomous_Systems_Project_Team_17
+copying Autonomous_Systems_Project_Team_17/__init__.py -> /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/build/lib/Autonomous_Systems_Project_Team_17
+copying Autonomous_Systems_Project_Team_17/Validation_Printing_Node_Team_17.py -> /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/build/lib/Autonomous_Systems_Project_Team_17
+running install
+running install_lib
+creating /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/python3.12/site-packages/Autonomous_Systems_Project_Team_17
+copying /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/build/lib/Autonomous_Systems_Project_Team_17/__init__.py -> /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/python3.12/site-packages/Autonomous_Systems_Project_Team_17
+copying /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/build/lib/Autonomous_Systems_Project_Team_17/Validation_Printing_Node_Team_17.py -> /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/python3.12/site-packages/Autonomous_Systems_Project_Team_17
+byte-compiling /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/python3.12/site-packages/Autonomous_Systems_Project_Team_17/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/python3.12/site-packages/Autonomous_Systems_Project_Team_17/Validation_Printing_Node_Team_17.py to Validation_Printing_Node_Team_17.cpython-312.pyc
+running install_data
+copying resource/Autonomous_Systems_Project_Team_17 -> /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/share/ament_index/resource_index/packages
+copying package.xml -> /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/share/Autonomous_Systems_Project_Team_17
+running install_egg_info
+Copying ../../build/Autonomous_Systems_Project_Team_17/Autonomous_Systems_Project_Team_17.egg-info to /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/python3.12/site-packages/Autonomous_Systems_Project_Team_17-0.0.0-py3.12.egg-info
+running install_scripts
+Installing Validation_printing_node script to /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/Autonomous_Systems_Project_Team_17
+writing list of installed files to '/home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/install.log'
