@@ -1,0 +1,19 @@
+[1.587s] Invoking command in '/home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/build --no-deps symlink_data --force
+[2.201s] running develop
+[2.622s] running egg_info
+[2.664s] writing Autonomous_Systems_Project_Team_17.egg-info/PKG-INFO
+[2.665s] writing dependency_links to Autonomous_Systems_Project_Team_17.egg-info/dependency_links.txt
+[2.665s] writing entry points to Autonomous_Systems_Project_Team_17.egg-info/entry_points.txt
+[2.665s] writing requirements to Autonomous_Systems_Project_Team_17.egg-info/requires.txt
+[2.665s] writing top-level names to Autonomous_Systems_Project_Team_17.egg-info/top_level.txt
+[2.752s] reading manifest file 'Autonomous_Systems_Project_Team_17.egg-info/SOURCES.txt'
+[2.753s] writing manifest file 'Autonomous_Systems_Project_Team_17.egg-info/SOURCES.txt'
+[2.797s] running build_ext
+[2.798s] Creating /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/python3.12/site-packages/Autonomous-Systems-Project-Team-17.egg-link (link to .)
+[2.798s] Installing Validation_printing_node script to /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/Autonomous_Systems_Project_Team_17
+[2.799s] 
+[2.799s] Installed /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17
+[2.799s] running symlink_data
+[2.799s] symbolically linking /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/resource/Autonomous_Systems_Project_Team_17 -> /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/share/ament_index/resource_index/packages
+[2.799s] symbolically linking /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/package.xml -> /home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/share/Autonomous_Systems_Project_Team_17
+[2.842s] Invoked command in '/home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/moustafaahmed13/ros2_ws/install/Autonomous_Systems_Project_Team_17/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/moustafaahmed13/ros2_ws/build/Autonomous_Systems_Project_Team_17/build --no-deps symlink_data --force
