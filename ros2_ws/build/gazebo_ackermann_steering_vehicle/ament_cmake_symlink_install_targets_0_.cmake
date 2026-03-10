@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/moustafaahmed13/ros2_ws/build/gazebo_ackermann_steering_vehicle/vehicle_controller" "/home/moustafaahmed13/ros2_ws/build/gazebo_ackermann_steering_vehicle/joystick_controller" "TARGETS" "vehicle_controller" "joystick_controller" "DESTINATION" "lib/gazebo_ackermann_steering_vehicle")
