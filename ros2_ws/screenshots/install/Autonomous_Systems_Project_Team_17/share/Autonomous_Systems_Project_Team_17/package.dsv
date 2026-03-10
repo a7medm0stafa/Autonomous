@@ -1,0 +1,9 @@
+source;share/Autonomous_Systems_Project_Team_17/hook/pythonpath.ps1
+source;share/Autonomous_Systems_Project_Team_17/hook/pythonpath.dsv
+source;share/Autonomous_Systems_Project_Team_17/hook/pythonpath.sh
+source;share/Autonomous_Systems_Project_Team_17/hook/ament_prefix_path.ps1
+source;share/Autonomous_Systems_Project_Team_17/hook/ament_prefix_path.dsv
+source;share/Autonomous_Systems_Project_Team_17/hook/ament_prefix_path.sh
+source;../../build/Autonomous_Systems_Project_Team_17/share/Autonomous_Systems_Project_Team_17/hook/pythonpath_develop.ps1
+source;../../build/Autonomous_Systems_Project_Team_17/share/Autonomous_Systems_Project_Team_17/hook/pythonpath_develop.dsv
+source;../../build/Autonomous_Systems_Project_Team_17/share/Autonomous_Systems_Project_Team_17/hook/pythonpath_develop.sh
