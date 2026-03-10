@@ -1,0 +1,2 @@
+[console_scripts]
+Validation_printing_node = Autonomous_Systems_Project_Team_17.Validation_Printing_Node_Team_17:main
